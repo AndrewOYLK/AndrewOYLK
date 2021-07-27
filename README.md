@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About
+
+-  **Role :** DevOps Developer :zap: | Open Source :fire:	
+-  **Languages :** Golang、Python
+-  **Organization :** @winhong
+
+![github stats](https://github-readme-stats.vercel.app/api?username=FogDong&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
