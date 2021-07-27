@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there
 **AndrewOYLK/AndrewOYLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About
+### About 👋
 
 -  **Role :** DevOps Developer :zap: | Open Source :fire:	
 -  **Languages :** Golang、Python
 -  **Organization :** @winhong
 
-![github stats](https://github-readme-stats.vercel.app/api?username=FogDong&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![github stats](https://github-readme-stats.vercel.app/api?username=AndrewOYLK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
