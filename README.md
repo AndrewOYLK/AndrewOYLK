@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### About 👋
 
--  **Role :** DevOps Developer :zap: | Open Source :fire:	
+-  **Role :** SRE Developer :zap: | Open Source :fire:	
 -  **Languages :** Golang、Python
 -  **Organization :** @xiaopeng
 
